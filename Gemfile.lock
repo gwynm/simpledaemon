@@ -1,0 +1,9 @@
+GEM
+  specs:
+    daemons (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  daemons
